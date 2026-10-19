@@ -4,11 +4,11 @@
 
 # DigYourWindows
 
-[![CI](https://github.com/build-workbench/dig-your-windows/actions/workflows/ci.yml/badge.svg)](https://github.com/build-workbench/dig-your-windows/actions/workflows/ci.yml)
+[![CI](https://github.com/holtwood-projects/dig-your-windows/actions/workflows/ci.yml/badge.svg)](https://github.com/holtwood-projects/dig-your-windows/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Release](https://img.shields.io/github/v/release/build-workbench/dig-your-windows)](https://github.com/build-workbench/dig-your-windows/releases)
+[![Release](https://img.shields.io/github/v/release/holtwood-projects/dig-your-windows)](https://github.com/holtwood-projects/dig-your-windows/releases)
 
-> Official docs: [https://build-workbench.github.io/dig-your-windows/](https://build-workbench.github.io/dig-your-windows/)
+> Official docs: [https://holtwood-projects.github.io/dig-your-windows/](https://holtwood-projects.github.io/dig-your-windows/)
 
 **DigYourWindows** is an open-source, lightweight, and fully offline Windows deep diagnostics tool. Collect hardware status with one click, monitor performance load in real time, troubleshoot system error logs and reliability records, and output a quantified health score with targeted optimization suggestions.
 
@@ -69,11 +69,11 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 # DigYourWindows
 
-[![CI](https://github.com/build-workbench/dig-your-windows/actions/workflows/ci.yml/badge.svg)](https://github.com/build-workbench/dig-your-windows/actions/workflows/ci.yml)
+[![CI](https://github.com/holtwood-projects/dig-your-windows/actions/workflows/ci.yml/badge.svg)](https://github.com/holtwood-projects/dig-your-windows/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Release](https://img.shields.io/github/v/release/build-workbench/dig-your-windows)](https://github.com/build-workbench/dig-your-windows/releases)
+[![Release](https://img.shields.io/github/v/release/holtwood-projects/dig-your-windows)](https://github.com/holtwood-projects/dig-your-windows/releases)
 
-> 官方文档: [https://build-workbench.github.io/dig-your-windows/](https://build-workbench.github.io/dig-your-windows/)
+> 官方文档: [https://holtwood-projects.github.io/dig-your-windows/](https://holtwood-projects.github.io/dig-your-windows/)
 
 **DigYourWindows** 是一款开源、轻量且完全离线的 Windows 深度诊断工具。一键采集硬件状态、实时监测性能负载、排查系统错误日志与可靠性记录，并输出量化健康评分与针对性优化建议。
 
