@@ -17,7 +17,7 @@
     <Product>DigYourWindows</Product>
     <Description>Windows 深度诊断工具</Description>
     <Copyright>Copyright © Build Workbench 2025-2026</Copyright>
-    <RepositoryUrl>https://github.com/build-workbench/dig-your-windows</RepositoryUrl>
+    <RepositoryUrl>https://github.com/holtwood-projects/dig-your-windows</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 </Project>

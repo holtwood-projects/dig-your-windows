@@ -27,7 +27,7 @@ const { page, lang } = useData()
 
 const isZh = computed(() => lang.value === 'zh-CN')
 
-const repoUrl = 'https://github.com/build-workbench/dig-your-windows'
+const repoUrl = 'https://github.com/holtwood-projects/dig-your-windows'
 
 const editLink = computed(() => {
   return `${repoUrl}/edit/main/docs/${page.value.filePath}`

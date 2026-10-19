@@ -1,11 +1,11 @@
 # robots.txt for DigYourWindows Documentation
-# https://build-workbench.github.io/dig-your-windows/
+# https://holtwood-projects.github.io/dig-your-windows/
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://build-workbench.github.io/dig-your-windows/sitemap.xml
+Sitemap: https://holtwood-projects.github.io/dig-your-windows/sitemap.xml
 
 # Allow all major search engines
 User-agent: Googlebot
